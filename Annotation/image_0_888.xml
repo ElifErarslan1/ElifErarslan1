@@ -1,0 +1,26 @@
+<annotation>
+	<folder>augmented_knifeset</folder>
+	<filename>image_0_888.png</filename>
+	<path>/home/elif/Masaüstü/XRay/Data/augmented_knifeset/image_0_888.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Knife</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>164</ymin>
+			<xmax>282</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>
