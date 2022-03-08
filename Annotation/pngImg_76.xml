@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pngImgs</folder>
+	<filename>pngImg_76.png</filename>
+	<path>/home/elif/Masaüstü/XRay/Data/only_knives/pngImgs/pngImg_76.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>391</width>
+		<height>72</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Knife</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>4</ymin>
+			<xmax>391</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>
